@@ -1,0 +1,12 @@
+The book name: The Normal World
+The author name: uYao
+The publication year: 1995
+The price: 34.50
+The book name: We all three
+The author name: angJiang
+The publication year: 1995
+The price: 36.50
+The book name: Love You Like The World
+The author name: angXiaobo
+The publication year: 1995
+The price: 37.30

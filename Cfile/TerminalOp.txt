@@ -1,0 +1,6 @@
+#to run C/C++ file in Terminal
+gcc [name].c/[name].cpp -o [name]
+./[name] 
+
+
+

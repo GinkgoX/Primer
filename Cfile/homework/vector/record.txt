@@ -1,0 +1,8 @@
+Target distance : 10 , and step length : 3
+0# location :Rectangle System : (x, y) = ( 2.42708 , -1.76331 )
+1# location :Rectangle System : (x, y) = ( 0.828584 , -4.30197 )
+2# location :Rectangle System : (x, y) = ( 2.64517 , -1.9145 )
+3# location :Rectangle System : (x, y) = ( -0.227811 , -2.77821 )
+4# location :Rectangle System : (x, y) = ( -3.14874 , -3.46246 )
+5# location :Rectangle System : (x, y) = ( -5.93412 , -4.57675 )
+6# location :Rectangle System : (x, y) = ( -8.17829 , -6.56765 )
